@@ -15,7 +15,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/oliveiralecca/rocketseat-ignite-lab-ds-react?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-ignite-lab-ds-react?color=56BEB8">
+  <!-- <img alt="License" src="https://img.shields.io/github/license/oliveiralecca/rocketseat-ignite-lab-ds-react?color=56BEB8"> -->
 
   <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/oliveiralecca/rocketseat-ignite-lab-ds-react?color=56BEB8" /> -->
 
