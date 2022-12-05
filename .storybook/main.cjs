@@ -16,5 +16,8 @@ module.exports = {
   "features": {
     "storyStoreV7": true,
     "interactionsDebugger": true
-  }
+  },
+  "staticDirs": [
+    "../public"
+  ]
 }
